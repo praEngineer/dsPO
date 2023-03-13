@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Procurement Common Architecture" source="sn_shop">45f917bd533323007388ddeeff7b12b6</dependency>
+        <min_version>9.0.6</min_version>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-10 15:21:00</sys_created_on>
+        <sys_id>183f0d741b61a910baac766e034bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-10 15:21:00</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

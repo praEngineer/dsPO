@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function($scope) {
+  /* widget controller */
+	alert("started widget api.controller");
+  var c = this;
+	try {
+		var dte = document.getElementById("chosenInputDate");
+		//list the columns of the DS1200 table
+		
+		getColumnsFrom('x_dosny_dspo_ds1200');
+		
+    // Query the most recently added record from the incident table
+		var gr = new GlideRecord('x_dosny_dspo_ds1200');
+		gr.orderByDesc('created');
+		gr.setLimit(1);
+		gr.query();
+		GrabLatestCreatedDate(gr);
+		
+		// Attach an onclick event handler to the button element
+		var btn = document.getElementById("btnToCalculateFiscalYear");
+		btn.onclick = function() {
+    	calculateFiscalYear();
+  	};
+		
+	}
+	catch (e) {
+		alert("A api.controller error occurred: " + e.message);
+	}
+};
+
+function getColumnsFrom(thisTbl){
+	// Set the table name
+	var tableName = thisTbl;
+
+	// Set the URL for the REST API call
+	var url = 'https://nycdsdev1.service-now.com' + '/api/now/table/sys_dictionary?sysparm_query=name=' + tableName + '^internal_type=collection';
+
+	// Set up the REST API call
+	var client = new XMLHttpRequest();
+	client.open('GET', url);
+	client.setRequestHeader('Accept', 'application/json');
+	client.setRequestHeader('Content-Type', 'application/json');
+	client.setRequestHeader('Authorization', 'Bearer ' + g_ck);
+
+	// Make the REST API call
+	client.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			var response = JSON.parse(this.responseText);
+			var columns = response.result.map(function(field) {
+				return field.element;
+			});
+			console.log(columns);
+		}
+	};
+	client.send();
+}
+
+function GrabLatestCreatedDate(gr) {
+								// If a record is found, act on it
+		if (gr.next()) {
+			// Do something with the most recently added record
+			// console.log("Most recent incident: " + gr.getValue('number'));
+			dte.value = gr.getValue('created').toISOString().substring(0, 10);
+
+			var curDte = new Date(dte.value);
+
+			// var frmtdDte = curDte.toISOString().substring(0, 10);
+			// dte.value = frmtdDte;
+			var fy = getFiscalYear(curDte);
+			var fytag =  document.getElementById("fiscalYear");
+			fytag.value = fy;
+		}
+		else{
+			alert("no rows found in " + gr.getTableName());
+		}
+}
+
+function getFiscalYear(date) {
+	//var dte = task.created.value;
+	try {
+		var result = "unkn";
+		var month = date.getMonth() + 1; // Get month (0-11), add 1 to get month number (1-12)
+		var year = date.getFullYear(); // Get year (e.g., 2022)
+		if (month >= 7) { // July or later
+			result = '"' +  (year + 1) + "-" + (year + 2).toString().substr(-2) +'"'; // Next calendar year
+		} else { // January to June
+			result = '"' +  year + "-" + (year + 1).toString().substr(-2) +'"'; // Current year
+		}
+		return result;
+	}
+	catch (e){
+		alert("A getFiscalYear error occurred: " + e.message);
+		return e.message;
+	}
+
+}
+
+function calculateFiscalYear() {
+	alert("calculateFiscalYear started");
+	try {
+		var inputDate = document.getElementById("inputDate").value; // result is MM-DD-YYYY
+		document.getElementById("chosenInputDate").value = inputDate;
+		
+		var dte = new Date(inputDate);
+		var fiscalYear = getFiscalYear(dte);
+		document.getElementById("fiscalYear").value = fiscalYear;
+		
+		alert("Fiscal year calculated successfully: " + fiscalYear);
+		
+	} catch (e) {
+		alert("A calculateFiscalYear error occurred: " + e.message);
+	}
+}
+
+]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>x_dosny_dspo_ds1200</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list>sys_created_on</field_list>
+        <has_preview>false</has_preview>
+        <id>ds1200fy</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>DS1200FY</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-10 17:06:44</sys_created_on>
+        <sys_id>cd67613c1be1a910baac766e034bcb92</sys_id>
+        <sys_mod_count>32</sys_mod_count>
+        <sys_name>DS1200FY</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sp_widget_cd67613c1be1a910baac766e034bcb92</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-10 21:32:46</sys_updated_on>
+        <template><![CDATA[<div>
+<!-- your widget template -->
+  <input type="date" id="inputDate"><br>
+  <input type="text" id="chosenInputDate"><br>
+  
+  <label for="fiscalYear">Fiscal Year:</label>
+  <input type="text" id="fiscalYear"><br>
+  
+  <button id="btnToCalculateFiscalYear">Calculate Fiscal Year</button>
+</div>]]></template>
+    </sp_widget>
+</record_update>
