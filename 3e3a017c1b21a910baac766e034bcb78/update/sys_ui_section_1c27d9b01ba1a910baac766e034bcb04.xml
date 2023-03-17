@@ -4,29 +4,85 @@
             <element>sys_created_on</element>
             <position>0</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-03-10 15:55:42</sys_created_on>
-            <sys_id>a427d9b01ba1a910baac766e034bcb26</sys_id>
+            <sys_created_on>2023-03-14 15:29:09</sys_created_on>
+            <sys_id>e66779ca1b2d69106c1036ef034bcb60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FISA FORM ENC 200 (12/09)" display_value="FISA FORM ENC 200 (12/09)" name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">1c27d9b01ba1a910baac766e034bcb04</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-03-10 15:55:42</sys_updated_on>
+            <sys_updated_on>2023-03-14 15:29:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_year_or_period</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-14 15:29:09</sys_created_on>
+            <sys_id>ea6779ca1b2d69106c1036ef034bcb60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FISA FORM ENC 200 (12/09)" display_value="FISA FORM ENC 200 (12/09)" name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">1c27d9b01ba1a910baac766e034bcb04</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-14 15:29:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-03-10 15:55:42</sys_created_on>
-            <sys_id>2827d9b01ba1a910baac766e034bcb26</sys_id>
+            <sys_created_on>2023-03-14 15:29:09</sys_created_on>
+            <sys_id>ee6779ca1b2d69106c1036ef034bcb60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FISA FORM ENC 200 (12/09)" display_value="FISA FORM ENC 200 (12/09)" name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">1c27d9b01ba1a910baac766e034bcb04</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-03-10 15:55:42</sys_updated_on>
+            <sys_updated_on>2023-03-14 15:29:09</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchasing_entity</element>
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-14 15:29:09</sys_created_on>
+            <sys_id>e26779ca1b2d69106c1036ef034bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FISA FORM ENC 200 (12/09)" display_value="FISA FORM ENC 200 (12/09)" name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">1c27d9b01ba1a910baac766e034bcb04</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-14 15:29:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_requisition.contract.po_number</element>
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-14 15:29:09</sys_created_on>
+            <sys_id>e66779ca1b2d69106c1036ef034bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FISA FORM ENC 200 (12/09)" display_value="FISA FORM ENC 200 (12/09)" name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">1c27d9b01ba1a910baac766e034bcb04</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-14 15:29:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sales_order_number</element>
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-14 15:29:09</sys_created_on>
+            <sys_id>ea6779ca1b2d69106c1036ef034bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FISA FORM ENC 200 (12/09)" display_value="FISA FORM ENC 200 (12/09)" name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">1c27d9b01ba1a910baac766e034bcb04</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-14 15:29:09</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>FISA FORM ENC 200 (12/09)</caption>

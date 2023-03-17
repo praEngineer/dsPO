@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Choices of VENDOR, VOUCHER, ..." section_id="5869d1b41ba1a910baac766e034bcb2f" sys_domain="global" table="x_dosny_dspo_ds1200" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>fiscalservicescategory</element>
             <position>0</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-03-10 16:05:31</sys_created_on>
-            <sys_id>d469d1b41ba1a910baac766e034bcb5f</sys_id>
+            <sys_created_on>2023-03-16 19:42:50</sys_created_on>
+            <sys_id>16a4853e1b25ad106c1036ef034bcb3d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Choices of VENDOR, VOUCHER, ..." display_value="Choices of VENDOR, VOUCHER, ..." name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">5869d1b41ba1a910baac766e034bcb2f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-03-10 16:05:31</sys_updated_on>
+            <sys_updated_on>2023-03-16 19:42:50</sys_updated_on>
             <sys_user/>
-            <type>.split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Choices of VENDOR, VOUCHER, ...</caption>

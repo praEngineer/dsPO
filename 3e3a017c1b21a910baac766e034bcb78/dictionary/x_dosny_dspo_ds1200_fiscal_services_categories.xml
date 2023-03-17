@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4fd721421be969106c1036ef034bcb84" label="DS1200 Fiscal Services Categories" max_length="40" name="x_dosny_dspo_ds1200_fiscal_services_categories" type="collection">
+        <element label="Fiscal Service Copy To" max_length="40" name="fiscalservicescategory" type="string"/>
+    </element>
+</database>
