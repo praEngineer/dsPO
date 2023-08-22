@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>dspo</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-20 19:02:43</sys_created_on>
+        <sys_id>bf1b41461b1eed106c1036ef034bcb1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DSpo</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_ui_view_bf1b41461b1eed106c1036ef034bcb1a</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-20 19:02:43</sys_updated_on>
+        <title>DSpo</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

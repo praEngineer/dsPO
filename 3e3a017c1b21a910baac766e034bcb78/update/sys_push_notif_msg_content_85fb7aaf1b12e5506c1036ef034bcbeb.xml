@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg_content">
+    <sys_push_notif_msg_content action="INSERT_OR_UPDATE">
+        <name>DSpo thrid version PNMC</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <script><![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+
+  var layoutFields = {"Identifier" : "number", "Description" : "u_procurement_name", "Status" : "short_description" };
+  var json = new global.ActionablePushPayloadBuilder(current, "85fb7aaf1b12e5506c1036ef034bcbeb", layoutFields).buildJSON(); 
+
+	
+	return json;
+
+})(current, message, attributes);]]></script>
+        <sys_class_name>sys_push_notif_msg_content</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-25 19:09:57</sys_created_on>
+        <sys_id>85fb7aaf1b12e5506c1036ef034bcbeb</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>DSpo thrid version PNMC</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_push_notif_msg_content_85fb7aaf1b12e5506c1036ef034bcbeb</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-26 20:31:34</sys_updated_on>
+    </sys_push_notif_msg_content>
+</record_update>

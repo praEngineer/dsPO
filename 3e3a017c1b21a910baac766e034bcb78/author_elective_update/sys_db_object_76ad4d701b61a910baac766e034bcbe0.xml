@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>DS1200</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_dosny_dspo_ds1200</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Order Template" name="sn_shop_order">753f244e1b0c55106c1036ef034bcb57</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-10 15:20:59</sys_created_on>
+        <sys_id>76ad4d701b61a910baac766e034bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DS1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_db_object_76ad4d701b61a910baac766e034bcbe0</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-10 15:20:59</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_dosny_dspo.user" name="x_dosny_dspo.user">073a017c1b21a910baac766e034bcbd9</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_db_object_76ad4d701b61a910baac766e034bcbe0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>DS1200</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_dosny_dspo_ds1200</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Order Template" name="sn_shop_order">753f244e1b0c55106c1036ef034bcb57</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-10 15:20:59</sys_created_on>
+        <sys_id>76ad4d701b61a910baac766e034bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DS1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_db_object_76ad4d701b61a910baac766e034bcbe0</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-10 15:20:59</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_dosny_dspo.user" name="x_dosny_dspo.user">073a017c1b21a910baac766e034bcbd9</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>]]></payload>
+        <payload_hash>-1704415371</payload_hash>
+        <record_name>DS1200</record_name>
+        <reverted_from/>
+        <source>36450b721b392d106c1036ef034bcb45</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-29 15:20:33</sys_created_on>
+        <sys_id>f2450b721b392d106c1036ef034bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872df4d5f90000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-29 15:20:33</sys_updated_on>
+        <type>Table</type>
+        <update_guid>32450b72ce392d107a950ae7ef934a58</update_guid>
+        <update_guid_history>32450b72ce392d107a950ae7ef934a58:0,b6450b7226392d10164ec08bd79b6255:-643079036</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-31 15:46:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>a55ca1d717054dce97bdd6b41222a284</sys_id>
+        <sys_metadata>76ad4d701b61a910baac766e034bcbe0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DS1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_scope_delete display_value="">70edcafbdb6a4cf0974e373cff12a610</sys_scope_delete>
+        <sys_update_name>sys_db_object_76ad4d701b61a910baac766e034bcbe0</sys_update_name>
+        <sys_update_version display_value="sys_db_object_76ad4d701b61a910baac766e034bcbe0">f2450b721b392d106c1036ef034bcb58</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-31 15:46:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Choices of VENDOR, VOUCHER, ..." section_id="5869d1b41ba1a910baac766e034bcb2f" sys_domain="global" table="x_dosny_dspo_ds1200" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscalservicescategory</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-16 19:42:50</sys_created_on>
+            <sys_id>16a4853e1b25ad106c1036ef034bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Choices of VENDOR, VOUCHER, ..." display_value="Choices of VENDOR, VOUCHER, ..." name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">5869d1b41ba1a910baac766e034bcb2f</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-16 19:42:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Choices of VENDOR, VOUCHER, ...</caption>
+            <header>false</header>
+            <name>x_dosny_dspo_ds1200</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-10 16:05:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5869d1b41ba1a910baac766e034bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dosny_dspo_ds1200</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+            <sys_update_name>sys_ui_section_5869d1b41ba1a910baac766e034bcb2f</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-10 16:05:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_ui_section_5869d1b41ba1a910baac766e034bcb2f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Choices of VENDOR, VOUCHER, ..." section_id="5869d1b41ba1a910baac766e034bcb2f" sys_domain="global" table="x_dosny_dspo_ds1200" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscalservicescategory</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-16 19:42:50</sys_created_on>
+            <sys_id>16a4853e1b25ad106c1036ef034bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Choices of VENDOR, VOUCHER, ..." display_value="Choices of VENDOR, VOUCHER, ..." name="x_dosny_dspo_ds1200" sys_domain="global" view="Default view">5869d1b41ba1a910baac766e034bcb2f</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-16 19:42:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Choices of VENDOR, VOUCHER, ...</caption>
+            <header>false</header>
+            <name>x_dosny_dspo_ds1200</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-10 16:05:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5869d1b41ba1a910baac766e034bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dosny_dspo_ds1200</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+            <sys_update_name>sys_ui_section_5869d1b41ba1a910baac766e034bcb2f</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-10 16:05:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>290504309</payload_hash>
+        <record_name>DS1200</record_name>
+        <reverted_from/>
+        <source>36450b721b392d106c1036ef034bcb45</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-29 15:20:39</sys_created_on>
+        <sys_id>d8558b721b392d106c1036ef034bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872df4ed990000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-29 15:20:39</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>98558b720d392d109c0f674830c2d3e4</update_guid>
+        <update_guid_history>98558b720d392d109c0f674830c2d3e4:290504309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-31 15:46:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7b69614b31ba4eccabc483d50947bc10</sys_id>
+        <sys_metadata>5869d1b41ba1a910baac766e034bcb2f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dosny_dspo_ds1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_parent display_value="">76ad4d701b61a910baac766e034bcbe0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_scope_delete display_value="">70edcafbdb6a4cf0974e373cff12a610</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5869d1b41ba1a910baac766e034bcb2f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5869d1b41ba1a910baac766e034bcb2f">d8558b721b392d106c1036ef034bcbe4</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-31 15:46:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

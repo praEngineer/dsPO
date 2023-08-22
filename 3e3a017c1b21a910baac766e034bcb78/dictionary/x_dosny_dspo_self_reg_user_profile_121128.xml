@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="69e849c21b1eed106c1036ef034bcbf5" extends="sys_self_registered_user_profile" label="Dspo Self Reg User Profile 121128" max_length="40" name="x_dosny_dspo_self_reg_user_profile_121128" type="collection"/>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>something about a procurement record via DSpo Push to Galaxy 9 Push Notification Message</message_string>
+        <name>DSpo Push to Galaxy 9</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="DSpo Push Notif Msg Content">4ffeca6f1b1ea5506c1036ef034bcb57</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-25 14:30:00</sys_created_on>
+        <sys_id>1d6c7d671bdaa5506c1036ef034bcbea</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>DSpo Push to Galaxy 9</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_push_notif_msg_1d6c7d671bdaa5506c1036ef034bcbea</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-26 19:17:22</sys_updated_on>
+        <table>proc_po</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>

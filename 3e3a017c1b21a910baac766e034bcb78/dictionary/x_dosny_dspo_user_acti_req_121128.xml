@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d5e849c21b1eed106c1036ef034bcbd4" extends="user_activation_request" label="Dspo User Acti Req 121128" max_length="40" name="x_dosny_dspo_user_acti_req_121128" type="collection"/>
+</database>

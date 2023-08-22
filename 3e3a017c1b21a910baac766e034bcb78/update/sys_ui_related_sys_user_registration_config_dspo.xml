@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sys_user_registration_config" version="2" view="dspo">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_dosny_dspo_self_reg_user_profile_121128.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>f48b09861b1eed106c1036ef034bcbfe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sys_self_registered_user_profile.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>f88b09861b1eed106c1036ef034bcbfe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sp_portal.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>fc8b09861b1eed106c1036ef034bcbfe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>user_activation_request.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>f08b09861b1eed106c1036ef034bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sys_user_registration_request.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>f48b09861b1eed106c1036ef034bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>x_dosny_dspo_user_acti_req_121128.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>f88b09861b1eed106c1036ef034bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User Registration Configuration - DSpo" name="sys_user_registration_config" related_list="NULL" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">f88b09861b1eed106c1036ef034bcbfd</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>x_dosny_dspo_user_reg_req_121128.user_registration_config</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_id>fc8b09861b1eed106c1036ef034bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>User Registration Configuration - DSpo</calculated_name>
+            <filter/>
+            <name>sys_user_registration_config</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-20 19:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f88b09861b1eed106c1036ef034bcbfd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User Registration Configuration - DSpo</sys_name>
+            <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+            <sys_update_name>sys_ui_related_sys_user_registration_config_dspo</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-20 19:04:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

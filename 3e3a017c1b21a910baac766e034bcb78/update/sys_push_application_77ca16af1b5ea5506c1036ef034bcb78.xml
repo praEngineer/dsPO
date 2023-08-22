@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_application">
+    <sys_push_application action="INSERT_OR_UPDATE">
+        <adm_client_id/>
+        <adm_client_secret/>
+        <apns_bundle_id/>
+        <certificate_id/>
+        <display_name>DSpo SN Request Application</display_name>
+        <feedback>none</feedback>
+        <feedback_last_updated/>
+        <feedback_rest_message_id/>
+        <gcm_api_key/>
+        <name>DSpoSNrequestPushApp</name>
+        <parent_app/>
+        <push>REST API</push>
+        <push_rest_message_id/>
+        <sandbox_certificate_id/>
+        <sys_class_name>sys_push_application</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-25 16:42:50</sys_created_on>
+        <sys_id>77ca16af1b5ea5506c1036ef034bcb78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DSpo SN Request Application</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_push_application_77ca16af1b5ea5506c1036ef034bcb78</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-25 16:42:50</sys_updated_on>
+    </sys_push_application>
+</record_update>

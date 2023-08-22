@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="45e805c21b1eed106c1036ef034bcb43" extends="sys_user_registration_request" label="Dspo User Reg Req 121128" max_length="40" name="x_dosny_dspo_user_reg_req_121128" type="collection"/>
+</database>

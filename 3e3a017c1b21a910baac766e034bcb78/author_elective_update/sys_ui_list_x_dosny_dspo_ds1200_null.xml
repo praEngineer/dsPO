@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_dosny_dspo_ds1200" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>erp_number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fiscal_year_or_period</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fiscalservicescategory</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e0b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_order_type</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>64b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>created</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order_action</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>amount_paid</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blanket_order</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blanket_order_end_date</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blanket_order_start_date</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_owner</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e0b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancel_date</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>64b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancellation_reason</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancelled_by</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.approval</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.approval_set</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.purchasing_entity.number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.customer_number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e0b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.legal_name</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>64b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.primary_phone_number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.street</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.city</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.state</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.initial</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.approved_shipping_regions</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_dosny_dspo_ds1200</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28b605471ba121506c1036ef034bcbf4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dosny_dspo_ds1200</sys_name>
+            <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+            <sys_update_name>sys_ui_list_x_dosny_dspo_ds1200_null</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_ui_list_x_dosny_dspo_ds1200_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_dosny_dspo_ds1200" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>erp_number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fiscal_year_or_period</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fiscalservicescategory</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e0b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_order_type</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>64b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>created</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order_action</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>amount_paid</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blanket_order</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blanket_order_end_date</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blanket_order_start_date</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_owner</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e0b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancel_date</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>64b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancellation_reason</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancelled_by</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.approval</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.approval_set</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_requisition.purchasing_entity.number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.customer_number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e0b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.legal_name</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>64b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.primary_phone_number</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e4b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.street</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>68b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.city</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>e8b645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.state</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>6cb645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.initial</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>ecb645471ba121506c1036ef034bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supplier.approved_shipping_regions</element>
+            <list_id display_value="x_dosny_dspo_ds1200" element="NULL" name="x_dosny_dspo_ds1200" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28b605471ba121506c1036ef034bcbf4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_id>60b645471ba121506c1036ef034bcb05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_dosny_dspo_ds1200</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-17 14:30:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28b605471ba121506c1036ef034bcbf4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dosny_dspo_ds1200</sys_name>
+            <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+            <sys_update_name>sys_ui_list_x_dosny_dspo_ds1200_null</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-17 14:30:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>]]></payload>
+        <payload_hash>541043139</payload_hash>
+        <record_name>DS1200</record_name>
+        <reverted_from/>
+        <source>36450b721b392d106c1036ef034bcb45</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-29 15:20:38</sys_created_on>
+        <sys_id>5c558b721b392d106c1036ef034bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872df4eaf50000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-29 15:20:38</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>1c558b7203392d10af2374bb57f69dab</update_guid>
+        <update_guid_history>1c558b7203392d10af2374bb57f69dab:541043139</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-31 15:46:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>bbcb9aac0a8e4f9dacf03a7539c1e219</sys_id>
+        <sys_metadata>28b605471ba121506c1036ef034bcbf4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dosny_dspo_ds1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_parent display_value="">76ad4d701b61a910baac766e034bcbe0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_scope_delete display_value="">70edcafbdb6a4cf0974e373cff12a610</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_dosny_dspo_ds1200_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_dosny_dspo_ds1200_null">5c558b721b392d106c1036ef034bcbab</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-31 15:46:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

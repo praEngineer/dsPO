@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content">
+    <sys_notification_workspace_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <name>DSpo Notification Workspace Content</name>
+        <notification display_value="DSpo Provider Notification">82a24fe71b52e5506c1036ef034bcb1f</notification>
+        <route display_value="Agent Workspace">cb1af195872023002941b53046cb0b4e</route>
+        <sys_class_name>sys_notification_workspace_content</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-25 19:41:07</sys_created_on>
+        <sys_id>44a3c36b1b52e5506c1036ef034bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DSpo Notification Workspace Content</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_notification_workspace_content_44a3c36b1b52e5506c1036ef034bcbd2</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-25 19:41:07</sys_updated_on>
+    </sys_notification_workspace_content>
+</record_update>

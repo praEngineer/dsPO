@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_push_action_instance">
+    <sys_sg_push_action_instance action="INSERT_OR_UPDATE">
+        <button display_value="Accept">9b21bdcce741230003cd6188d2f6a9c3</button>
+        <push_action display_value="DSpo Push Action">eee448841b6a29506c1036ef034bcb09</push_action>
+        <push_notification display_value="DSpo Puchase Order Modified">00ddc66b1b1ea5506c1036ef034bcba3</push_notification>
+        <sys_class_name>sys_sg_push_action_instance</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-27 20:25:12</sys_created_on>
+        <sys_id>f3e065d81be2a9506c1036ef034bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eee448841b6a29506c1036ef034bcb09</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_sg_push_action_instance_f3e065d81be2a9506c1036ef034bcb0e</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-27 20:25:12</sys_updated_on>
+    </sys_sg_push_action_instance>
+</record_update>

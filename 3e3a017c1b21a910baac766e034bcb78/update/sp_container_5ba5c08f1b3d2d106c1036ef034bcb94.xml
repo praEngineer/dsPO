@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>DS Purchase Order - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="dspo">8882c88b1b3d2d106c1036ef034bcb7a</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-29 20:01:49</sys_created_on>
+        <sys_id>5ba5c08f1b3d2d106c1036ef034bcb94</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DS Purchase Order - Container 1</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sp_container_5ba5c08f1b3d2d106c1036ef034bcb94</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-29 20:21:28</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

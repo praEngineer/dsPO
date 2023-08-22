@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_push_action_instance">
+    <sys_sg_push_action_instance action="DELETE">
+        <button display_value="Add Comment">306c2267731333001bef3ae234f6a768</button>
+        <push_action display_value="Confirm">b0b6d3d8b703001008746b91de11a916</push_action>
+        <push_notification display_value="DSpo Puchase Order Modified">00ddc66b1b1ea5506c1036ef034bcba3</push_notification>
+        <sys_class_name>sys_sg_push_action_instance</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-26 20:41:45</sys_created_on>
+        <sys_id>372b54c01bea29506c1036ef034bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0b6d3d8b703001008746b91de11a916</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_sg_push_action_instance_372b54c01bea29506c1036ef034bcb55</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-26 20:41:45</sys_updated_on>
+    </sys_sg_push_action_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_sg_push_action_instance_372b54c01bea29506c1036ef034bcb55</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_push_action_instance"><sys_sg_push_action_instance action="INSERT_OR_UPDATE"><button display_value="Add Comment">306c2267731333001bef3ae234f6a768</button><push_action display_value="Confirm">b0b6d3d8b703001008746b91de11a916</push_action><push_notification display_value="DSpo Puchase Order Modified">00ddc66b1b1ea5506c1036ef034bcba3</push_notification><sys_class_name>sys_sg_push_action_instance</sys_class_name><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-04-26 20:41:45</sys_created_on><sys_id>372b54c01bea29506c1036ef034bcb55</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b0b6d3d8b703001008746b91de11a916</sys_name><sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package><sys_policy/><sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope><sys_update_name>sys_sg_push_action_instance_372b54c01bea29506c1036ef034bcb55</sys_update_name><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-04-26 20:41:45</sys_updated_on></sys_sg_push_action_instance></record_update>]]></payload>
+        <payload_hash>-582270949</payload_hash>
+        <record_name>b0b6d3d8b703001008746b91de11a916</record_name>
+        <reverted_from/>
+        <source>875543721b392d106c1036ef034bcb40</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-26 20:41:45</sys_created_on>
+        <sys_id>895b54c01bea29506c1036ef034bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187bf4cfa420000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-26 20:41:45</sys_updated_on>
+        <type>Push Action Instance</type>
+        <update_guid>815b54c0fbea2950ab309807cf3be6a4</update_guid>
+        <update_guid_history>815b54c0fbea2950ab309807cf3be6a4:-582270949</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-27 20:24:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_push_action_instance">sys_sg_push_action_instance</sys_db_object>
+        <sys_id>0aa3be96d0774046810b64a3265dd949</sys_id>
+        <sys_metadata>372b54c01bea29506c1036ef034bcb55</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0b6d3d8b703001008746b91de11a916</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_scope_delete display_value="">70edcafbdb6a4cf0974e373cff12a610</sys_scope_delete>
+        <sys_update_name>sys_sg_push_action_instance_372b54c01bea29506c1036ef034bcb55</sys_update_name>
+        <sys_update_version display_value="sys_sg_push_action_instance_372b54c01bea29506c1036ef034bcb55">895b54c01bea29506c1036ef034bcba4</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-27 20:24:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

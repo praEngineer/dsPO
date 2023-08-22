@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_dosny_dspo_ds1200</description>
+        <name>x_dosny_dspo_ds1200</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-10 15:21:00</sys_created_on>
+        <sys_id>5c3fc9741b61a910baac766e034bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dosny_dspo_ds1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_security_acl_5c3fc9741b61a910baac766e034bcbfe</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-10 15:21:00</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_security_acl_5c3fc9741b61a910baac766e034bcbfe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_dosny_dspo_ds1200</description>
+        <name>x_dosny_dspo_ds1200</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-10 15:21:00</sys_created_on>
+        <sys_id>5c3fc9741b61a910baac766e034bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dosny_dspo_ds1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_update_name>sys_security_acl_5c3fc9741b61a910baac766e034bcbfe</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-10 15:21:00</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>342192166</payload_hash>
+        <record_name>x_dosny_dspo_ds1200</record_name>
+        <reverted_from/>
+        <source>36450b721b392d106c1036ef034bcb45</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-29 15:20:37</sys_created_on>
+        <sys_id>77454b721b392d106c1036ef034bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872df4e5bb0000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-29 15:20:37</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>37454b72e8392d10460e59125be7b5b5</update_guid>
+        <update_guid_history>37454b72e8392d10460e59125be7b5b5:342192166</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-31 15:46:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2920e476cf4f4aaa9b23cbac6f6cfc71</sys_id>
+        <sys_metadata>5c3fc9741b61a910baac766e034bcbfe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dosny_dspo_ds1200</sys_name>
+        <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
+        <sys_parent display_value="">6a45c7721b392d106c1036ef034bcbe5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
+        <sys_scope_delete display_value="">70edcafbdb6a4cf0974e373cff12a610</sys_scope_delete>
+        <sys_update_name>sys_security_acl_5c3fc9741b61a910baac766e034bcbfe</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_5c3fc9741b61a910baac766e034bcbfe">77454b721b392d106c1036ef034bcbb5</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-31 15:46:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

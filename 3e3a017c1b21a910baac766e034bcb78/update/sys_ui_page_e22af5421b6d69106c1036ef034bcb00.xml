@@ -1,249 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
     <sys_ui_page action="INSERT_OR_UPDATE">
-        <category>htmleditor</category>
+        <category>cms</category>
         <client_script/>
-        <description>HTML that is a close approximation of the Sanitation Purchase Order Form</description>
-        <direct>false</direct>
+        <description>A separate HTML that is a close approximation of the Sanitation Purchase Order Form, but using JS and CSS attachments in the DSpoReactApp Application</description>
+        <direct>true</direct>
         <endpoint>x_dosny_dspo_DS1200 UI.do</endpoint>
-        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
-<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
-
-<head>
-    <title>Sanitation Purchase Order</title>
-    <style>
-        .blueTD {
-            font-weight: bold;
-            color: white;
-            background-color: darkblue;
-			width: 400px;
-        }
-        .FiscalServicesTR {
-            background-color: lightgreen;
-        }
-        .InformationTable {
-            background-color: white;
-        }		
-		.hrcls {
-		  border: none;
-		  border-top: 1px solid black;
-		}
-		.table {
-			width: 100%;
-			float: left;
-			border-collapse: collapse;
-			cellspacing: 0;
-		}
-		.column {
-		  width: 100px;
-		  float: left;
-		  padding: 20px;
-		  height: min-content;
-		}
-		.column33 {
-			width: 33%;
-			display: inline-block;
-		}
-		.table .column.first{
-		   clear: left;   
-		   height: min-content;
-		}
-		.table .column.wholewidth{
-		   width: 100%;   
-		}
-		.row {
-			display:table-row;
-			height: min-content;
-			transition: height 0.2s ease-in-out;
-		}
-
-		.container {
-			display: grid;
-			grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-			gap: 20px;
-			padding: 20px;
-		}
-    </style>
-<style type="text/css"> * {margin:0; padding:0; text-indent:0; }
- .s1 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
- .s2 { color: #FFF; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
- .s3 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
- .s4 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; }
- .s5 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
- h4 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
- .s6 { color: black; font-family:"Palatino Linotype", serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 9pt; }
- .s7 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
- .s8 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- h1 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 13pt; }
- .s9 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
- h2 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
- .s10 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
- .s11 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 5pt; }
- .s12 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 6pt; }
- .s13 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 6pt; }
- .s14 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 5pt; }
- .s15 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 8pt; }
- .s17 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
- .s19 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
- .s20 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
- .s21 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- .s22 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
- .s23 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
- .s24 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; }
- .s25 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; vertical-align: 4pt; }
- .s26 { color: #FFF; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
- h3 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
- .s27 { color: black; font-family:Arial, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10pt; }
- .s28 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
- .p, p { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; margin:0pt; }
- li {display: block; }
- #l1 {padding-left: 0pt;counter-reset: c1 1; }
- #l1> li>*:first-child:before {counter-increment: c1; content: counter(c1, decimal)". "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
- #l1> li:first-child>*:first-child:before {counter-increment: c1 0;  }
- #l2 {padding-left: 0pt;counter-reset: c2 1; }
- #l2> li>*:first-child:before {counter-increment: c2; content: "("counter(c2, lower-latin)") "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
- #l2> li:first-child>*:first-child:before {counter-increment: c2 0;  }
- #l3 {padding-left: 0pt;counter-reset: c2 1; }
- #l3> li>*:first-child:before {counter-increment: c2; content: "("counter(c2, lower-latin)") "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
- #l3> li:first-child>*:first-child:before {counter-increment: c2 0;  }
- #l4 {padding-left: 0pt;counter-reset: c2 1; }
- #l4> li>*:first-child:before {counter-increment: c2; content: "("counter(c2, lower-latin)") "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
- #l4> li:first-child>*:first-child:before {counter-increment: c2 0;  }
- #l5 {padding-left: 0pt;counter-reset: c2 1; }
- #l5> li>*:first-child:before {counter-increment: c2; content: "("counter(c2, lower-latin)") "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
- #l5> li:first-child>*:first-child:before {counter-increment: c2 0;  }
- #l6 {padding-left: 0pt;counter-reset: d1 1; }
- #l6> li>*:first-child:before {counter-increment: d1; content: "("counter(d1, lower-latin)") "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- #l6> li:first-child>*:first-child:before {counter-increment: d1 0;  }
- li {display: block; }
- #l7 {padding-left: 0pt;counter-reset: e1 1; }
- #l7> li>*:first-child:before {counter-increment: e1; content: counter(e1, decimal)". "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
- #l7> li:first-child>*:first-child:before {counter-increment: e1 0;  }
- #l8 {padding-left: 0pt;counter-reset: e2 2; }
- #l8> li>*:first-child:before {counter-increment: e2; content: "("counter(e2, lower-latin)") "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- #l8> li:first-child>*:first-child:before {counter-increment: e2 0;  }
- #l9 {padding-left: 0pt;counter-reset: e2 2; }
- #l9> li>*:first-child:before {counter-increment: e2; content: "("counter(e2, lower-latin)") "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- #l9> li:first-child>*:first-child:before {counter-increment: e2 0;  }
- #l10 {padding-left: 0pt;counter-reset: f1 1; }
- #l10> li>*:first-child:before {counter-increment: f1; content: "("counter(f1, lower-latin)") "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- #l10> li:first-child>*:first-child:before {counter-increment: f1 0;  }
- #l11 {padding-left: 0pt;counter-reset: g1 1; }
- #l11> li>*:first-child:before {counter-increment: g1; content: "("counter(g1, lower-latin)") "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- #l11> li:first-child>*:first-child:before {counter-increment: g1 0;  }
- #l12 {padding-left: 0pt;counter-reset: h1 1; }
- #l12> li>*:first-child:before {counter-increment: h1; content: "("counter(h1, lower-latin)") "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- #l12> li:first-child>*:first-child:before {counter-increment: h1 0;  }
- table, tbody {vertical-align: top; overflow: visible; }
-</style>	
-</head>
-
-<body>
-	<table style="border-collapse:collapse" cellspacing="0"><tbody><tr style="height:12pt"><td style="width:108pt" bgcolor="#000080"><p class="s2" style="padding-left: 1pt;text-indent: 0pt;line-height: 11pt;text-align: left;">COMMODITY</p></td><td style="width:88pt"><p class="s3" style="padding-left: 2pt;text-indent: 0pt;line-height: 11pt;text-align: left;">DO1-Delivery</p></td><td style="width:107pt"><p class="s3" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: left;">POC- Commodity</p></td><td style="width:47pt"><p class="s3" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: left;">SI-Ship</p></td><td style="width:87pt"><p class="s3" style="padding-left: 31pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Blanket</p></td><td style="width:112pt" bgcolor="#000080"><p class="s2" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: left;">NON-COMMODITY</p></td><td style="width:76pt"><p class="s3" style="padding-left: 2pt;text-indent: 0pt;line-height: 11pt;text-align: left;">PON1-Non</p></td></tr><tr style="height:15pt"><td style="width:108pt" bgcolor="#000080"><p class="s2" style="padding-left: 1pt;text-indent: 0pt;line-height: 11pt;text-align: left;">PURCHASE ORDER</p></td><td style="width:88pt"><p class="s3" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">Order</p></td><td style="width:107pt"><p class="s3" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Purchase Order</p></td><td style="width:47pt"><p class="s3" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Inst</p></td><td style="width:87pt"><p class="s3" style="padding-left: 31pt;text-indent: 0pt;text-align: left;">Order</p></td><td style="width:112pt" bgcolor="#000080"><p class="s2" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: left;">PURCHASE ORDER</p></td><td style="width:76pt"><p class="s3" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">Commodity PO</p></td></tr></tbody></table>
-	
-	<div class="table">
-		<div class="row">
-			<div class="column first blueTD"><label for="commodity">COMMODITY PURCHASE ORDER</label></div>
-			<div class="column">DO1-Delivery Order</div>
-			<div class="column"><input type="radio" name="commodity"  value="DO1-Delivery Order"></input></div>
-			<div class="column">POC-Commondity Purchase Order</div>
-			<div class="column"><input type="radio" name="commodity"  value="POC-Commondity Purchase Order"></input></div>
-			<div class="column">SI-Ship Inst</div>
-			<div class="column"><input type="radio" name="commodity"  value="SI-Ship Inst"></input></div>
-			<div class="column">Blanket Order</div>
-			<div class="column"><input type="radio" name="commodity"  value="Blanket Order"></input></div>
-			<div class="column blueTD"><label for="commodity">NONCOMMODITY PURCHASE ORDER</label></div>
-			<div class="column">PON1-Non Commodity PO</div>
-			<div class="column"><input type="radio" name="commodity"  value="PON1-Non Commodity PO"></input></div>
-		</div>
-	</div>
-	<div class="table FiscalServicesTR">
-		<div class="row">
-			<div class="column wholewidth"><label for="copygivento">PO COPY BELONGING TO ...</label></div>
-		</div>
-		<div class="row ">
-			<div class="column first">VENDOR</div>
-			<div class="column"><input type="radio" name="copygivento" value="VENDOR"></input></div>
-			<div class="column">VOUCHER</div>
-			<div class="column"><input type="radio" name="copygivento"  value="VOUCHER"></input></div>
-			<div class="column">AGENCY FILE</div>
-			<div class="column"><input type="radio" name="copygivento"  value="AGENCY FILE"></input></div>
-			<div class="column">INSPECTION</div>
-			<div class="column"><input type="radio" name="copygivento"  value="INSPECTION"></input></div>
-			<div class="column">DELIVERY LOCATION</div>
-			<div class="column"><input type="radio" name="copygivento"  value="DELIVERY LOCATION"></input></div>
-			<div class="column">DELIVERY FINAL RECEIPT</div>
-			<div class="column"><input type="radio" name="copygivento"  value="DELIVERY FINAL RECEIPT"></input></div>
-			<div class="column">ORDER ACTION</div>
-			<div class="column">ORDER ID</div>
-		</div>
-
-	</div>
-	<div class="table">
-		<div class="row ">
-			<div class="column wholewidth hrcls">any text</div>
-		</div>	
-	</div>
-	
-	<div class="table FiscalServicesTR">
-		<div class="row container">
-			<div class="column33">
-				<div class="table ">
-					<div clase="row FiscalServicesTR">
-						<div class="column ">Vendor Information</div>
-					</div>
-					<div clase="row InformationTable">
-						<div class="column">VEND CUST #</div>
-						<div class="column">TEL. #</div>
-					</div>
-				</div>
-			</div>
-			<div class="column33">Deliver to Information (24 hr notice prior to delivery)</div>
-			<div class="column33">Invoice to Information</div>
-
-		</div>
-
-	</div>
-	<div class="table">
-		<div class="row ">
-			<div class="column wholewidth hrcls">any text</div>
-		</div>	
-	</div>
-
-	<div class="table FiscalServicesTR">
-		<div class="row ">
-			<div class="column first">COMM. LINE #</div>
-			<div class="column">COMMODITY</div>
-			<div class="column">DESCRIPTION</div>
-			<div class="column">QUANTITY</div>
-			<div class="column">UNIT(S)</div>
-			<div class="column">$ UNIT PRICE</div>
-			<div class="column">$ LINE AMOUNT</div>
-			<div class="column">FN DOC ID</div>
-		</div>
-
-	</div>
-	<div class="table">
-		<div class="row ">
-			<div class="column wholewidth hrcls">any text</div>
-		</div>	
-	</div>
-	
-</body>
-
-</j:jelly>]]></html>
+        <html><![CDATA[<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DSpo with SN-REACT</title>
+    <script type="module" crossorigin="anonymous" src="/api/x_elsr_react_app/container/js/index-55e8c92e-js"></script>
+    <link rel="stylesheet" href="/api/x_elsr_react_app/container/js/index-52de84a2-css" />
+<!-- For this to work, I needed to use the React Container of the DSpoReactApp Application. 
+Within that application there are 'Inbound Integrations' holding JS and CSS attachments.
+The JS is going to populate the 'root' DIV in the HTML a few lines below.
+See https://pishchulin.medium.com/react-application-in-servicenow-8bdbb1e69c0c
+and https://www.youtube.com/watch?v=WHq7KItzncc
+and https://github.com/elinsoftware/sn-react -->
+  </head>
+  <body>
+    <div id="root"></div>
+    
+  </body>
+</html>
+]]></html>
         <name>DS1200 UI</name>
         <processing_script/>
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>sfarkas</sys_created_by>
         <sys_created_on>2023-03-14 15:42:34</sys_created_on>
         <sys_id>e22af5421b6d69106c1036ef034bcb00</sys_id>
-        <sys_mod_count>113</sys_mod_count>
+        <sys_mod_count>132</sys_mod_count>
         <sys_name>DS1200 UI</sys_name>
         <sys_package display_value="DSpo" source="x_dosny_dspo">3e3a017c1b21a910baac766e034bcb78</sys_package>
         <sys_policy/>
         <sys_scope display_value="DSpo">3e3a017c1b21a910baac766e034bcb78</sys_scope>
         <sys_update_name>sys_ui_page_e22af5421b6d69106c1036ef034bcb00</sys_update_name>
         <sys_updated_by>sfarkas</sys_updated_by>
-        <sys_updated_on>2023-03-14 20:55:59</sys_updated_on>
+        <sys_updated_on>2023-04-28 15:21:55</sys_updated_on>
     </sys_ui_page>
 </record_update>
